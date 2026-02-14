@@ -17,19 +17,18 @@ https://stackoverflow.com/a/50916345/441878
 
 1\. Create an LED circuit with a ([class presentation](https://docs.google.com/presentation/d/1G4jdcr8KzWpIiIduQyFiQJEG-PFJHpovJb9rWhxhNYw/edit?slide=id.g1f89d7c4b1c_0_53#slide=id.g1f89d7c4b1c_0_53)). Record the voltage drop from each step and amps used in the circuit: 
 
-- Your response
-
+- Around 2V, then around 3.2V, 2 mA
 
 
 2\. Create a three-LED circuit on Tinkercard and measure Voltage Drop and amps using their multimeters ([class presentation](https://docs.google.com/presentation/d/1G4jdcr8KzWpIiIduQyFiQJEG-PFJHpovJb9rWhxhNYw/edit?slide=id.g1f89d7c4b1c_0_53#slide=id.g1f89d7c4b1c_0_53)). 
 
-- Link to your (publicly-accessible) https://tinkercad.com file
+[- Link to your (publicly-accessible) https://tinkercad.com file](https://www.tinkercad.com/things/9TYkZqBHaXC/editel?returnTo=%2Fdashboard&sharecode=wM3qvYVUOQOEXeEHAZWt9zeHN4MDRd3e3ZiMZOrXHV4)
 
 
 
 3\. 📚 Read Chapter 02 - Musical Electricity for Electrophobes (39-45) in [Electronic music from scratch](https://www.makershed.com/products/make-electronic-music-pdf) (Pearson). Write a comment on one of Pearson's phrases that speaks to you. (2-3 sentences) 
 
-- Your response
+One phrase that speaks to me is “squish a piezo, and we have voltage.” I like how this shows that something simple, like pressure or movement, can create sound and electricity. It makes electronic music feel more hands-on and creative.
 
 
 
@@ -39,7 +38,7 @@ https://stackoverflow.com/a/50916345/441878
 
 5\. Create a groundbreaking musical instrument using Pearson's advice in the conclusion of the chapter to customize your circuit to play sound in a new way.
 
-- Add video documentation of a performance of your musical instrument.
+I can try to customize your circuit by adding different materials, such as mushrooms, carrots, or cabbage, to see what sounds they make when electric current passes through and causes vibrations.
 
 
 
