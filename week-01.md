@@ -33,13 +33,13 @@ https://www.tinkercad.com/things/eIeenTEYTip/editel?returnTo=%2Fdashboard&sharec
 
 3\. 📚 Read Chapter 01 - A People's History of Electronic Music (2-14) and Chapter 02 - Musical Electricity for Electrophobes (15-up to 38) in [Electronic music from scratch](https://www.makershed.com/products/make-electronic-music-pdf) (Pearson). Write a comment on one of Pearson's phrases that speaks to you. (2-3 sentences) 
 
-- Your response
+- One phrase that stood out to me is Pearson’s idea that “music technology is the act of finding musical applications for apparently nonmusical things.” This means that music can be made from anything, not just traditional instruments or expensive equipment. It shows that creativity comes from experimenting with everyday objects and technologies, and that anyone can make music
 
 
 
 4\. Explore Ishkur’s Guide to Electronic Music 2.0 https://music.ishkur.com/ referenced by Pearson. Describe the influence of one genre from this guide on your current musical listening habits. `(2-3 sentences)`
 
-- Your response
+- One genre from the guide that influences my listening habits is indie electronic, especially chill-out music. A song like *“British Summertime”* by Ultramarine has a calm and atmospheric sound, with soft beats and gentle melodies that create a relaxed mood. This type of music is easy to listen to while studying or unwinding, so it has become part of my regular playlist.
 
 
 
