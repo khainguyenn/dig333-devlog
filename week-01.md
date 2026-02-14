@@ -66,12 +66,12 @@ Wendy Carlos uses the Moog sound in *The Shining* to create a slow tempo that st
 
 8\. Fork this repository into your own Github account and enable Github Pages. Paste the link to the public repo page below (github.com)
 
-- Your response
+[Link](https://github.com/khainguyenn/dig333-devlog)
 
 
 9\. Check the public link (the live github.io URL) to this DevLog and make sure all your content is formatted correctly. Paste the link below.
 
-- Your response
+[Link](https://khainguyenn.github.io/dig333-devlog/week-01.html)
 
 
 10\. Paste the public link (the live github.io URL) to this finished DevLog into Moodle before (by 8am) the next class.
