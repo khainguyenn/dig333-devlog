@@ -55,9 +55,9 @@ I should be careful with capacitors because they store electrical charge and can
 
 9\. 🎬 Watch [Synthesizing with Moog - Lesson 2: Dynamics](https://www.youtube.com/watch?v=gH4FNmoN7Z0) (15:33). Which tells us that every musical sound has three defining characteristics. What are they?
 
-- The volume of the sound: ______________ 
-- The musical note played: ______________
-- The sonic signature of a sound distinguishing a note played on one instrument from the same note played on a different instrument: ______________
+- The volume of the sound: Amplitude
+- The musical note played: Pitch
+- The sonic signature of a sound distinguishing a note played on one instrument from the same note played on a different instrument: Timbre
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gH4FNmoN7Z0?si=the6122ZQvX1Yjif" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -69,9 +69,9 @@ I should be careful with capacitors because they store electrical charge and can
 
 10\. If you were to make a list of your top 10 songs, share a link (e.g. youtube) to one that demonstrates an envelope generator at work, as well as the timecode for that position. Here is an example: 
 
-> The opening synth keyboard melody in Com Truise [Galactic Melt](https://www.youtube.com/watch?v=iOhpjcvtyVE&list=PLhpnnpt3tw-TQ102FLVMJabccj51wEeUH) uses a very short attack, making it punchy and alive. The base synth (`1:30`) uses a slower attack, adding to its weight and helping to ground the tempo. —Owen Mundy
 
-- Your response
+[- Your response](https://youtu.be/tKi9Z-f6qX4?si=RFs_Ou-IDUigYyXU&t=413) 
+deadmau5 - Strobe sounds energenic and alive
 
 
 
