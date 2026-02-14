@@ -44,7 +44,7 @@ I can try to customize your circuit by adding different materials, such as mushr
 
 6\. 📚 Read Chapter 03 - The Hello World Oscillator (46-59) in [Electronic music from scratch](https://www.makershed.com/products/make-electronic-music-pdf) (Pearson). In your own words, why should you be careful with capacitors?
 
-- Your response
+I should be careful with capacitors because they store electrical charge and can release it suddenly. If I connect them the wrong way or use too much voltage, they can overheat or even explode. This could damage my circuit and be dangerous
 
 
 7\. Save your file and commit all your work in this repo.
