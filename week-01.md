@@ -47,24 +47,20 @@ https://www.tinkercad.com/things/eIeenTEYTip/editel?returnTo=%2Fdashboard&sharec
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/waN4owHeyaQ?si=d4Lc3SgvF8frKHgN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- Your response
-
+Robert Moog played an important role in bringing synthesizers into mainstream music. He developed voltage-controlled synthesizers that could be played more like traditional instruments, making them easier for musicians to use.
 
 
 6\. The Moog video references ideas also presented in Pearson's "Speaker as microphone" experiment (p.37) explain what a microphone, a speaker, and the human ear have in common? (2-3 sentences) 
 
-- Your response
-
+A microphone, a speaker, and the human ear all work with sound vibrations. A microphone and the human ear take sound from the air and turn it into signals that can be heard or understood, while a speaker does the opposite by turning signals into sound. They all depend on movement and vibration to create or receive sound.
 
 
 7\. 🎬 Explore cinematic scores and other works created by [Wendy Carlos](https://www.google.com/search?q=wendy+carlos+filmography) using a Moog. Paste a link to an online example and describe what you like about the composition, performance, connection to themes in the film, etc. (2-3 sentences) 
 
-- Your response
+Wendy Carlos uses the Moog sound in *The Shining* to create a slow tempo that still feels urgent. Combined with the visual effects of the vast, wild mountain landscape, it makes viewers feel uneasy and creates a strong sense of impending doom.
+[Video](https://www.youtube.com/watch?v=kiV3J_e977Q)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiV3J_e977Q?si=QViadi5t0g_l8zr2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<small>Opening scene from The Shining. Music by Wendy Carlos</small>
 
 
 
