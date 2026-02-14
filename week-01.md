@@ -23,11 +23,11 @@ https://stackoverflow.com/a/50916345/441878
 
 - Link to your (publicly-accessible) https://tinkercad.com file
 
-
+https://www.tinkercad.com/things/eIeenTEYTip/editel?returnTo=%2Fdashboard&sharecode=iHxm8P26jOJrA6-TRXnSX-ophSj_wDxAeRbnySIJlRs
 
 2\. Share your maths using Ohm's law to find the resistor value for your Tinkercad circuit.
 
-- Your response
+(9V - 2V) / -.2A = 350Ω
 
 
 
