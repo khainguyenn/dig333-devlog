@@ -47,14 +47,18 @@ https://stackoverflow.com/a/50916345/441878
 6\. Watch Synthesizer Basics: Amplitude, Oscillators, Timbre and describe
 https://www.youtube.com/watch?v=c3udLCvoCC0 
 
-- Your response
+Amplitude: The height of a sound wave that controls how loud or soft a sound is.
+
+Oscillators: Components in a synthesizer that create sound by producing repeating electronic waves.
+
+Timbre: The distinct quality or color of a sound that makes it different from other sounds, even when they have the same pitch and volume.
 
 
 
 
 7\. What is the difference between an analog and digital component?
 
-- Your response
+An analog component works with continuous signals that can change smoothly over time, like natural sound waves. A digital component works with discrete signals, usually in the form of numbers or binary code
 
 
 
