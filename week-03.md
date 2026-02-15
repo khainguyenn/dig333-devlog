@@ -19,7 +19,7 @@ https://stackoverflow.com/a/50916345/441878
 
 1\. 📚 Read Chapter 03 - The Hello World Oscillator (39-45) in [Electronic music from scratch](https://www.makershed.com/products/make-electronic-music-pdf) (Pearson). Write a comment on one of Pearson's phrases that speaks to you. (2-3 sentences) 
 
-- Your response
+- One phrase that speaks to me is “an electronic appliance uses electricity as a language.” I like this idea because it shows that electronics are not just powered by electricity but use it to communicate and create complex results. It makes electronic music and devices feel more creative and expressive, since voltage can be used to send information and shape sound.
 
 
 2\. Follow instructions in "My First Square Wave Oscillator" experiment (Pearson 59-71) to create a breadboard oscillator. Share a photo.
@@ -38,11 +38,9 @@ https://stackoverflow.com/a/50916345/441878
 
 
 
-
-
 5\. Once you start listening you'll hear it everywhere. Share a link to a song that uses a synthesizer below.
 
-- Your response
+[Julian Casablancas - "11th Dimension](https://www.youtube.com/watch?v=f_h5DMHh5_M&list=RDf_h5DMHh5_M&start_radio=1)
 
 
 
