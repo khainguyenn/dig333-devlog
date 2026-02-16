@@ -16,8 +16,7 @@ https://stackoverflow.com/a/50916345/441878
 
 1\. 📚Read Philip K. Dick Pay for the Printer (1956) and The Preserving Machine (1953). Write a reflection below:
 
-- Your response
-
+Both stories made me think about how fragile “civilization” actually is when we rely on one system to keep everything running. In “Pay for the Printer,” the settlements feel comfortable only because the Biltong can copy the old world, and when the copies start coming out “puddinged,” everyone realizes they never learned how to truly make things for themselves. I was most surprised by how quickly people turn desperate and violent in this situation. In “The Preserving Machine,” the attempt to preserve art by turning music into living creatures ends up distorting it, which made me feel like preservation without understanding can ruin the very thing you’re trying to save. Both are very interesting to read.
 
 
 
