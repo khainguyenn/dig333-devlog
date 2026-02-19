@@ -102,6 +102,8 @@ else:
 10\. Post sketches for your musical instrument concept along with a potential parts list.
 
 
+Still an early plan, but I want to modify and build on top of the plate reverb project laid out in the textbook.
+
 
 
 
