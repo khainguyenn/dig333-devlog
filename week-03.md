@@ -29,7 +29,7 @@ https://stackoverflow.com/a/50916345/441878
 
 3\. Create at least one variation on your oscillator inspired by four variations on the circuit. Share a video of your your device.
 
-- Your response
+[Video](https://youtube.com/shorts/7E1FoMHfXSg?feature=share)
 
 
 
