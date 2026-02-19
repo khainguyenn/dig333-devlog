@@ -79,7 +79,7 @@ An analog component works with continuous signals that can change smoothly over 
 
 10\. 🎬 Watch [Synthesizing with Moog - Lesson 3: Vibrations](https://www.youtube.com/watch?v=6VFJzY_GfJU) (14:33). How might you change your square wave to get a triangle wave?
 
-- Your response
+Smooth out the square wave
 
 
 
