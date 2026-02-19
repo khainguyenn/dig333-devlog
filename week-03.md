@@ -64,7 +64,8 @@ An analog component works with continuous signals that can change smoothly over 
 
 8\. [👉Activity: Analyze square waveforms with an oscilloscope](https://docs.google.com/presentation/d/1G4jdcr8KzWpIiIduQyFiQJEG-PFJHpovJb9rWhxhNYw/edit?slide=id.g3b8d920f8b7_0_49#slide=id.g3b8d920f8b7_0_49). On the Snap-on Waveform demo board, which pot controls variable voltage (duty cycle) and which controls variable frequency (PWM slides)? What is a common use of each? 
 
-- Your response
+ Part 8: Variable voltage
+ Part 13: Frequency
 
 
 
