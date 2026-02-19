@@ -35,7 +35,7 @@ Both stories made me think about how fragile “civilization” actually is when
 
 p.20–25 - Read and follow tutorial to install Thonny and run the "Hello, World!" Add documentation below to show you can save and run python code on the Pico.
 
-- Your response
+Showed in class
 
 
 
@@ -43,8 +43,7 @@ p.20–25 - Read and follow tutorial to install Thonny and run the "Hello, World
 
 4\. What is the difference between a microcontroller and a regular computer? (Chapter 1)
 
-- Your response
-
+A microcontroller is a small device built to perform specific control tasks, while a regular computer is a more general-purpose system
 
 
 
@@ -52,7 +51,7 @@ p.20–25 - Read and follow tutorial to install Thonny and run the "Hello, World
 
 5\. 📚Read Chapter 2 (20–33) Programming with MicroPython. Summarize steps to program the Pico from your computer.
 
-- Your response
+Install an IDE and connect the Pico to your computer with a cable, then open Thonny, choose the MicroPython (Raspberry Pi Pico) interpreter so programs run on the Pico, and write your code in the editor before running or saving it to execute on the microcontroller.
 
 
 
