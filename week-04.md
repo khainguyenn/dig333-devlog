@@ -59,20 +59,33 @@ Install an IDE and connect the Pico to your computer with a cable, then open Tho
 6\. 📚Read Chapter 2: "Challenge: New Message" (26) - You can display programming code in a markdown file using three backticks, a new line, and then three more backticks on the following line. 
 
 ```python
-Replace this line with code from "Challenge: New Message" (26)
+print("!")
 ```
 
 
 7\. Chapter 2: "Challenge: Loop the Loop" (26)
 
 ```python
-Replace this line with code from "Challenge: Loop the Loop" (29)
+for i in range(5):
+    print("First loop number", i)
+    for j in range(3):
+      print("Second loop number", j)
 ```
 
 8\. Chapter 2: "Challenge: Add More Questions" (26)
 
 ```python
-Replace this line with code from "Challenge: Add More Questions" (32)
+user_name = input("What is your name? ")
+number = int(input("Type a number: "))
+
+print("Hello", user_name)
+
+if number > 5:
+    print("Your number is higher than 5.")
+elif number < 5:
+    print("Your number is lower than 5.")
+else:
+    print("Your number is exactly 5.")
 ```
 
 
@@ -82,7 +95,7 @@ Replace this line with code from "Challenge: Add More Questions" (32)
 
 9\. 📚Read Chapter 3 (34–43) Physical Computing. How many Ground pins are on the Pico?
 
-
+8
 
 
 
