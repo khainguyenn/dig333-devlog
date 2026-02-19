@@ -24,7 +24,7 @@ https://stackoverflow.com/a/50916345/441878
 
 2\. Follow instructions in "My First Square Wave Oscillator" experiment (Pearson 59-71) to create a breadboard oscillator. Share a photo.
 
-- Your response
+![dog](1)
 
 
 3\. Create at least one variation on your oscillator inspired by four variations on the circuit. Share a video of your your device.
