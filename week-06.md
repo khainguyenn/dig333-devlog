@@ -69,13 +69,13 @@ Automates the installing, upgrading, and configuring of software packages
 
 9\. Describe how you might use Git with a Raspberry Pi? ✏️
 
-- Your response
+Manage your projects and adding code to it.
 
 
 10\. What are two things your personal computer and a linux OS like Raspberry Pi have in common?
 
-1. ?
-2. ?
+1.  Both use a hierarchical file system
+2. Both can run Python
 
 
 
