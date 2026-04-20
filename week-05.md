@@ -28,7 +28,7 @@ https://youtube.com/shorts/7plHV1yVKDw?feature=share
 
 
 2\. 📚Read Chapter 6 (68-79) Physical Computing with Pico. Post documentation of your Reaction Game
-
+https://www.youtube.com/watch?v=T8QJ-oRb3Ao
 
 3\. Post documentation showing data from an analog sensor.
 
