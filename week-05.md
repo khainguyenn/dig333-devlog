@@ -49,13 +49,16 @@ Reading this investigation forced me to confront the reality that the iPhone is 
 7\. Post documentation showing audio from your Pico
 
 
-8\. Post documentation showing audio from your Pico
+
+https://github.com/user-attachments/assets/2fe05b4a-4ebf-477b-a470-690903837ca2
+
 
 
 9\. Post documentation of your progress on the Musical Instrument
+<img width="573" height="638" alt="Screenshot 2026-04-20 at 15 29 30" src="https://github.com/user-attachments/assets/3e5796ba-6eea-403c-a851-c7c582c3c41c" />
 
 
-10\. Post documentation of your progress on the Musical Instrument
+
 
 
 
