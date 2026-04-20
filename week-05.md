@@ -31,6 +31,7 @@ https://youtube.com/shorts/7plHV1yVKDw?feature=share
 https://www.youtube.com/watch?v=T8QJ-oRb3Ao
 
 3\. Post documentation showing data from an analog sensor.
+<img width="824" height="614" alt="Screenshot 2026-04-20 at 15 24 25" src="https://github.com/user-attachments/assets/6b264882-838c-4f46-845e-5b5ec24daff9" />
 
 
 4\. 📚Read Brian Merchant [Everything That’s Inside Your iPhone](https://www.vice.com/en/article/everything-thats-inside-your-iphone/) Motherboard (2017). ✏️ Write a reflection below:
