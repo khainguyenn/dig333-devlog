@@ -23,6 +23,8 @@ https://stackoverflow.com/a/50916345/441878
 
 1\. 📚Read Chapter 5 (58-67) Physical Computing with Pico. Post documentation of your Traffic light controller
 
+https://youtube.com/shorts/7plHV1yVKDw?feature=share
+
 
 
 2\. 📚Read Chapter 6 (68-79) Physical Computing with Pico. Post documentation of your Reaction Game
