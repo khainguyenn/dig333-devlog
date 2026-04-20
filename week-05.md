@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=T8QJ-oRb3Ao
 
 4\. 📚Read Brian Merchant [Everything That’s Inside Your iPhone](https://www.vice.com/en/article/everything-thats-inside-your-iphone/) Motherboard (2017). ✏️ Write a reflection below:
 
-- Your response
+Reading this investigation forced me to confront the reality that the iPhone is not just a simple technological object but the product of vast extractive networks expanding across continents. I was especially shocked by how such a small device requires roughly 34 kilograms of mined ore, revealing how much hidden labor and environmental disruption sits behind everyday convenience. It made me reconsider my own relationship to technology and the illusion that innovation exists separately from global inequality. Ultimately, it left me questioning whether consumers and companies alike are willing to reckon with the suffering embedded inside the devices we depend on daily.
 
 
 5\. 📚Read Chapter 7 (80-91) Physical Computing with Pico. Post documentation of your Burglar Alarm.
