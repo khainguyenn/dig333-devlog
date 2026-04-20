@@ -23,12 +23,13 @@ https://stackoverflow.com/a/50916345/441878
 
 1\. 📚Read Chapter 5 (58-67) Physical Computing with Pico. Post documentation of your Traffic light controller
 
-https://youtube.com/shorts/7plHV1yVKDw?feature=share
+Link to video: https://youtube.com/shorts/7plHV1yVKDw?feature=share
 
 
 
 2\. 📚Read Chapter 6 (68-79) Physical Computing with Pico. Post documentation of your Reaction Game
-https://www.youtube.com/watch?v=T8QJ-oRb3Ao
+
+Link to video: https://www.youtube.com/watch?v=T8QJ-oRb3Ao
 
 3\. Post documentation showing data from an analog sensor.
 <img width="824" height="614" alt="Screenshot 2026-04-20 at 15 24 25" src="https://github.com/user-attachments/assets/6b264882-838c-4f46-845e-5b5ec24daff9" />
