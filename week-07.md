@@ -48,7 +48,7 @@ https://stackoverflow.com/a/50916345/441878
 
 6\. Fade an LED using PWM from your Pi ✏️ 
 
-- Post video documentation here
+[Link](https://youtube.com/shorts/e7-XI8LNe2k?feature=share)
 
 
 7\. Read values from a photoresistor with your Pi ✏️ 
