@@ -20,7 +20,7 @@ https://stackoverflow.com/a/50916345/441878
 
 1\. Turn `on` and `off` an LED using the command line, GPIO and python. ✏️
 
-- Post video documentation here
+[Link](https://youtube.com/shorts/GrpCrLebsWw?feature=share)
 
 
 2\. Clone a repo to your Raspberry Pi over SSH ✏️ 
