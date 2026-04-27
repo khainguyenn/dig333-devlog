@@ -73,7 +73,7 @@ https://stackoverflow.com/a/50916345/441878
 
 10\. Link to your final project pitch ✏️ 
 
-- Your response
+[Link](https://docs.google.com/presentation/d/1zvWs4eTtJVFE0oVzIztJbzVAFfLQ0PAQiDNfsNEdTnE/edit?usp=sharing)
 
 
 
