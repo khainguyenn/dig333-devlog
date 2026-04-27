@@ -59,10 +59,10 @@ https://stackoverflow.com/a/50916345/441878
 
 8\. Explore sensors in class. List two analogs and two digital sensors ✏️ 
 
-1. Analog
-2. Analog
-3. Digital
-4. Digital
+1. Analog: Potentiometer
+2. Analog: Photoresistor light sensor
+3. Digital: PIR Motion Sensor
+4. Digital: temperature sensor (DS18B20)
 
 
 
