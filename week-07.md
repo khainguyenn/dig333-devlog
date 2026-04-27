@@ -41,7 +41,8 @@ https://stackoverflow.com/a/50916345/441878
 
 5\. Connect to your Pi over SFTP and upload / download files ✏️
 
-- Post a screenshot from your FTP program here
+<img width="540" height="295" alt="Screenshot 2026-04-27 at 15 27 42" src="https://github.com/user-attachments/assets/d4990dd6-5f03-4406-8f78-9ad650ebab49" />
+
 
 
 
