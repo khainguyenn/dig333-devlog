@@ -36,7 +36,7 @@ https://stackoverflow.com/a/50916345/441878
 
 4\. Read a button (connected to a pulldown resistor) with your RPi and use the value to control an LED. ✏️
 
-- Post video documentation here
+[Link](https://youtube.com/shorts/f8t1m-_fqFc?feature=share)
 
 
 5\. Connect to your Pi over SFTP and upload / download files ✏️
