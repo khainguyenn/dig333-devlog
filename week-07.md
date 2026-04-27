@@ -53,7 +53,7 @@ https://stackoverflow.com/a/50916345/441878
 
 7\. Read values from a photoresistor with your Pi ✏️ 
 
-- Post video documentation here
+[Link](https://youtube.com/shorts/BRjRmIOzPC0?feature=share)
 
 
 
